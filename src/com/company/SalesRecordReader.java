@@ -46,7 +46,7 @@ public class SalesRecordReader {
         System.out.println("Customer Name: " + customerName);
         System.out.println("Sales Amount: $" + salesAmount);
         System.out.println("Tax Code: " + taxCode);
-        System.out.println("Total Amount Due: " + totalAmountDue);
+        System.out.println("Total Amount Due: $" + totalAmountDue);
 
     }
 }
